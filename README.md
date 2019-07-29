@@ -1,0 +1,2 @@
+# test
+hexo deploy test
